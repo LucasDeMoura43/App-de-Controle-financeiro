@@ -14,7 +14,10 @@ A maneira de armazenar os dados das despesas inseridas foi atráves do localStor
 
   ## Como executar⚙
   ``` bash
-  git clone 
+  git clone https://github.com/LucasDeMoura43/App-de-Controle-financeiro.git
+  cd arquivos_inicias
+
+  ```
 
   
 
