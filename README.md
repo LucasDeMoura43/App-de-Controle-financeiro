@@ -19,6 +19,8 @@ A maneira de armazenar os dados das despesas inseridas foi atráves do localStor
 
   ```
 
+  ## Licença
+[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/LucasDeMoura43/Calculadora-de-Notas-Semestrais/blob/main/LICENSE]
   
 
   
